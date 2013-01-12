@@ -1,0 +1,28 @@
+{
+    "name": "espend/drupal-packagist",
+    "type": "symfony-bundle",
+    "description": "Packagist for Drupal projects",
+    "keywords": ["drupal", "composer", "packagist"],
+    "homepage": "http://espend.de",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Daniel Espendiller",
+            "homepage": "http://espend.de"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.2",
+        "composer/composer": "1.0.*@dev",
+        "kriswallsmith/buzz": "dev-master"
+    },
+
+    "autoload": {
+        "psr-0": { "Drupal\\PackagistBundle": "" }
+    },
+
+    "target-dir": "Drupal/PackagistBundle"
+
+}
