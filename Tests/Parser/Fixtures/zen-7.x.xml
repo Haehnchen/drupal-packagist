@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Zen</title>
+<short_name>zen</short_name>
+<dc:creator>JohnAlbin</dc:creator>
+<api_version>7.x</api_version>
+<recommended_major>5</recommended_major>
+<supported_majors>3,5</supported_majors>
+<default_major>3</default_major>
+<project_status>published</project_status>
+<link>http://drupal.org/project/zen</link>
+  <terms>
+   <term><name>Projects</name><value>Themes</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>zen 7.x-5.1</name>
+  <version>7.x-5.1</version>
+  <tag>7.x-5.1</tag>
+  <version_major>5</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1588234</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-5.1.tar.gz</download_link>
+  <date>1337337097</date>
+  <mdhash>05dfedea459f99b8fdeaee06e8714749</mdhash>
+  <filesize>253509</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>05dfedea459f99b8fdeaee06e8714749</md5>
+    <size>253509</size>
+    <filedate>1337337097</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>56ac8e68b65109188413534ddb326cc2</md5>
+    <size>311557</size>
+    <filedate>1337337097</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>zen 7.x-5.0</name>
+  <version>7.x-5.0</version>
+  <tag>7.x-5.0</tag>
+  <version_major>5</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1549748</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-5.0.tar.gz</download_link>
+  <date>1335480687</date>
+  <mdhash>81c88846e9e8a2dffba88768431775df</mdhash>
+  <filesize>253602</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>81c88846e9e8a2dffba88768431775df</md5>
+    <size>253602</size>
+    <filedate>1335480687</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9511e77cf1cb6e7f8e23b0f1be2db2bf</md5>
+    <size>311049</size>
+    <filedate>1335480687</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>zen 7.x-5.x-dev</name>
+  <version>7.x-5.x-dev</version>
+  <tag>7.x-5.x</tag>
+  <version_major>5</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1079736</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-5.x-dev.tar.gz</download_link>
+  <date>1357828884</date>
+  <mdhash>748eb73eba6e621453eed75e78d877cb</mdhash>
+  <filesize>270106</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>748eb73eba6e621453eed75e78d877cb</md5>
+    <size>270106</size>
+    <filedate>1357828884</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-5.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>5ed4a1b3f96f7e0f8844f06165a052d8</md5>
+    <size>322706</size>
+    <filedate>1357828884</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>zen 7.x-3.1</name>
+  <version>7.x-3.1</version>
+  <tag>7.x-3.1</tag>
+  <version_major>3</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1137998</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-3.1.tar.gz</download_link>
+  <date>1303759317</date>
+  <mdhash>5a39bc3ef5a92d54509fd4fd72113273</mdhash>
+  <filesize>217853</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>5a39bc3ef5a92d54509fd4fd72113273</md5>
+    <size>217853</size>
+    <filedate>1303759317</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>3818a5b1d291ca4d30d825021f750a23</md5>
+    <size>245676</size>
+    <filedate>1303759317</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>zen 7.x-3.0</name>
+  <version>7.x-3.0</version>
+  <tag>7.x-3.0</tag>
+  <version_major>3</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1117068</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-3.0.tar.gz</download_link>
+  <date>1302021117</date>
+  <mdhash>e4d51192e0a9e7f31259494e3f06fc84</mdhash>
+  <filesize>217431</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e4d51192e0a9e7f31259494e3f06fc84</md5>
+    <size>217431</size>
+    <filedate>1302021117</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>be62ab4b992e6bdc1c860f468310d507</md5>
+    <size>245114</size>
+    <filedate>1302021117</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>zen 7.x-3.x-dev</name>
+  <version>7.x-3.x-dev</version>
+  <tag>7.x-3.x</tag>
+  <version_major>3</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>http://drupal.org/node/628464</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/zen-7.x-3.x-dev.tar.gz</download_link>
+  <date>1344258511</date>
+  <mdhash>e712137f1509b03b47c82a6f73e423d3</mdhash>
+  <filesize>222344</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e712137f1509b03b47c82a6f73e423d3</md5>
+    <size>222344</size>
+    <filedate>1344258511</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/zen-7.x-3.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>b96a6ce641c037356567fb61748b81ac</md5>
+    <size>267227</size>
+    <filedate>1344258511</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+</releases>
+</project>

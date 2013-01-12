@@ -1,0 +1,16 @@
+espend_drupal_packagist:
+    pattern:  /packages.json
+    defaults: { _controller: DrupalPackagistBundle:Default:index }
+
+espend_drupal_packagist_notify:
+    pattern:  /download/{package}
+    defaults: { _controller: DrupalPackagistBundle:Default:notify }
+# also post?
+#    requirements:
+#        _method:  POST
+
+espend_drupal_packagist_notify_batch:
+    pattern:  /download
+    defaults: { _controller: DrupalPackagistBundle:Default:notifyBatch }
+    requirements:
+        _method:  POST

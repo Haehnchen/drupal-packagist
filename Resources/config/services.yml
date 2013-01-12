@@ -1,0 +1,7 @@
+parameters:
+#    drupal_packagist.example.class: Drupal\PackagistBundle\Example
+
+services:
+#    drupal_packagist.example:
+#        class: %drupal_packagist.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
