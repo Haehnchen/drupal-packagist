@@ -15,7 +15,7 @@
 
     "require": {
         "php": ">=5.3.2",
-        "composer/composer": "1.*",
+        "composer/composer": "*",
         "kriswallsmith/buzz": "dev-master"
     },
 
