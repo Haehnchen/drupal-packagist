@@ -33,7 +33,7 @@ class GeneratePackagesCommand extends ContainerAwareCommand {
 
 		$main_url = 'http://updates.drupal.org/release-history/%s/%d.x';
 
-		$api_versions = array(7,8);
+		$api_versions = array(6,7,8);
 
 		// @TODO: we do we have a full list or a complete version info file
 		$projects = array('adaptivetheme','omega', 'zen', 'panels',	'filefield','cck','admin_menu','date','wysiwyg','pathauto','ctools','token','views');
